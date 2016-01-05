@@ -8,6 +8,6 @@ relative_permalinks: true
 title:               Sandy Sage
 tagline:             'Product Manager'
 description:         'I’m a software product manager. This is where I rant, share, and capture tidbits from my experience.'
-baseurl:             ''
+baseurl:             
 paginate:            5
 
