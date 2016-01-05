@@ -1,3 +1,8 @@
+# Permalinks
+
+permalink:           pretty
+relative_permalinks: true
+
 # Site settings
 title: Sandy Sage
 description: "professional weblog and website of Sandy Sage, digital project and product manager"
