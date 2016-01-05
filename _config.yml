@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Sandy Sage
 tagline:             'Product Manager'
-description:         'I’m a software product manager. This is where I share my rantings, learnings, and other tidbits from my experience.'
+description:         'I’m a software product manager. This is where I rant, share, and capture tidbits from my experience.'
 baseurl:             ''
 paginate:            5
 

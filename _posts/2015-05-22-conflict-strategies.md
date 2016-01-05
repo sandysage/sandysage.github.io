@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Conflict Strategies"
+date:   2015-05-22 11:01:20 -0700
+categories: communication
+---
+
 I mentioned last week there are a few different conflict resolution tactics project managers employ. These are tools that every PM needs to know how to use and leverage. Because, let's face it, we project managers are defacto project therapists. We have to move projects forward with skill and finesse, mitigating conflicts and removing blockers.
 
 So what are these tactics?
