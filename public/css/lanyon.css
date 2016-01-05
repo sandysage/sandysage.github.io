@@ -72,17 +72,37 @@ h1, h2, h3, h4, h5, h6 {
  * Center the page content.
  */
 
-.container {
-  max-width: 28rem;
+.intro img {
+  float: none;
+  width: 100%;
 }
-@media (min-width: 38em) {
+.intro p {
+  margin-top: 0;
+  margin-bottom: .75rem;
+  font-size: 1.25em;
+  text-align: center;
+}
+@media (min-width: 37rem) {
   .container {
     max-width: 32rem;
   }
+  .intro p {
+    font-size: .8em;
+    text-align: left;
+  }
+  .intro img {
+    float: left;
+    margin: 0 1em 0 0;
+    width: 30%;
+  }
 }
-@media (min-width: 56em) {
+@media (min-width: 56rem) {
   .container {
     max-width: 38rem;
+  }
+  .intro p {
+    font-size: 1em;
+    text-align: left;
   }
 }
 

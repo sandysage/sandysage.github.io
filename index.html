@@ -3,6 +3,11 @@ layout: default
 title: Home
 ---
 
+<div class="intro">
+  <p><a href="/about/"><img src="/img/headshot.jpg" alt="Sandy Sage profile photo"></a></p>
+  {{ site.intro | markdownify }}
+</div>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
